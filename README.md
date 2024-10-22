@@ -1,2 +1,0 @@
-# canteen
-ruhuna uni canteen
